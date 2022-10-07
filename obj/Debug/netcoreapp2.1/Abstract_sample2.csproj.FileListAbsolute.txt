@@ -1,0 +1,10 @@
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\Abstract_sample2\bin\Debug\netcoreapp2.1\Abstract_sample2.deps.json
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\Abstract_sample2\bin\Debug\netcoreapp2.1\Abstract_sample2.runtimeconfig.json
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\Abstract_sample2\bin\Debug\netcoreapp2.1\Abstract_sample2.runtimeconfig.dev.json
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\Abstract_sample2\bin\Debug\netcoreapp2.1\Abstract_sample2.dll
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\Abstract_sample2\bin\Debug\netcoreapp2.1\Abstract_sample2.pdb
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\Abstract_sample2\obj\Debug\netcoreapp2.1\Abstract_sample2.csproj.CoreCompileInputs.cache
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\Abstract_sample2\obj\Debug\netcoreapp2.1\Abstract_sample2.AssemblyInfoInputs.cache
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\Abstract_sample2\obj\Debug\netcoreapp2.1\Abstract_sample2.AssemblyInfo.cs
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\Abstract_sample2\obj\Debug\netcoreapp2.1\Abstract_sample2.dll
+C:\Users\Arthur_x\source\repos\c_sharp_dersleri\Abstract_sample2\obj\Debug\netcoreapp2.1\Abstract_sample2.pdb
