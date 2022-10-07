@@ -1,2 +1,3 @@
 # Output : 
-![1](https://user-images.githubusercontent.com/74720709/194545628-c48b634a-612b-4792-8304-c0df585c7fcf.png)
+
+![1](https://user-images.githubusercontent.com/74720709/194545727-544f9315-9c87-4405-ac87-d696e07b1888.png)
