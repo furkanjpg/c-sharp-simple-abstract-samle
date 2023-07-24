@@ -173,14 +173,15 @@ namespace Abstract_sample2
         static void Main(string[] args)
         {
             Console.WriteLine("----------------------");
-            // Jan **
+            // January **
             month Jan = new January();
             Jan.months();
             Jan.Days();
             Jan.Hours();
             Jan.Saniye();
             Console.WriteLine("----------------------");
-            // Feb **
+            
+            // February **
             month Feb = new February();
             Feb.months();
             Feb.Days();
@@ -188,7 +189,7 @@ namespace Abstract_sample2
             Feb.Saniye();
             Console.WriteLine("----------------------");
 
-            // Mar **
+            // March **
             month Mar = new March();
             Mar.months();
             Mar.Days();
@@ -196,7 +197,7 @@ namespace Abstract_sample2
             Mar.Saniye();
             Console.WriteLine("----------------------");
 
-            // Apr **
+            // April **
             month Apr = new April();
             Apr.months();
             Apr.Days();
@@ -204,7 +205,7 @@ namespace Abstract_sample2
             Apr.Saniye();
             Console.WriteLine("----------------------");
 
-            // Mayıs **
+            // May **
             month May = new May();
             May.months();
             May.Days();
@@ -212,7 +213,7 @@ namespace Abstract_sample2
             May.Saniye();
             Console.WriteLine("----------------------");
 
-            // Jun **
+            // June **
             month Jun = new June();
             Jun.months();
             Jun.Days();
@@ -220,7 +221,7 @@ namespace Abstract_sample2
             Jun.Saniye();
             Console.WriteLine("----------------------");
 
-            // Jul **
+            // July **
             month Jul = new July();
             Jul.months();
             Jul.Days();
@@ -228,7 +229,7 @@ namespace Abstract_sample2
             Jul.Saniye();
             Console.WriteLine("----------------------");
 
-            // Aug **
+            // August **
             month Aug = new August();
             Aug.months();
             Aug.Days();
@@ -236,7 +237,7 @@ namespace Abstract_sample2
             Aug.Saniye();
             Console.WriteLine("----------------------");
 
-            // Sep **
+            // September **
             month Sep = new September();
             Sep.months();
             Sep.Days();
@@ -244,7 +245,7 @@ namespace Abstract_sample2
             Sep.Saniye();
             Console.WriteLine("----------------------");
 
-            // Oct **
+            // October **
             month Oct = new October();
             Oct.months();
             Oct.Days();
@@ -252,7 +253,7 @@ namespace Abstract_sample2
             Oct.Saniye();
             Console.WriteLine("----------------------");
 
-            // Kasım **
+            // November **
             month Nov = new November();
             Nov.months();
             Nov.Days();
@@ -260,7 +261,7 @@ namespace Abstract_sample2
             Nov.Saniye();
             Console.WriteLine("----------------------");
 
-            // Dec **
+            // December **
             month Dec = new December();
             Dec.months();
             Dec.Days();
